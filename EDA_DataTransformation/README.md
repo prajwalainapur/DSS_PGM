@@ -4,5 +4,5 @@
 
 This folder contains notebook created during the process of data understanding, EDA, data preparation phases of the research.
 
-### Author: Prajwal Brijesh Ainapur
-### Thesis Supervisor: Suvajit Mukhopadhyay
+##### Author: Prajwal Brijesh Ainapur
+##### Thesis Supervisor: Suvajit Mukhopadhyay

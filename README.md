@@ -6,5 +6,5 @@ This repo contains the crucial notebooks that were generated during the course o
 
 Dataset URL: https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
-### Author: Prajwal Brijesh Ainapur
-### Thesis Supervisor: Suvajit Mukhopadhyay
+##### Author: Prajwal Brijesh Ainapur
+##### Thesis Supervisor: Suvajit Mukhopadhyay
